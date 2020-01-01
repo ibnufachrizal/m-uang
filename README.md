@@ -31,7 +31,7 @@ This application can be installed on local server and online server with these s
 1. Clone the repo : `git clone https://github.com/ibnusyawall/m-uang.git`
 2. `$ cd m-uang`
 3. `$ composer install`
-4. `$ cp .env.example .env`
+4. Edit database .env
 5. `$ php artisan key:generate`
 6. Create new MySQL database for this application  
 (with simple command: `$ mysqladmin -urootuser -p create dompet_db`)
