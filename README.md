@@ -28,7 +28,7 @@ This application can be installed on local server and online server with these s
 
 #### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/ibnusyawall/m-uang.git`
+1. Clone the repo : `git clone https://github.com/ibnufachrizal/m-uang.git`
 2. `$ cd m-uang`
 3. `$ composer install`
 4. Edit database .env
